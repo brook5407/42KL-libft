@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/surfi89/libft?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/surfi89/libft?color=critical" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/surfi89/libft?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/surfi89/libft?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/surfi89/libft?color=green" />
+	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/brook5407/42KL-libft">
+	<img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/brook5407/42KL-libft">
+	<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brook5407/42KL-libft">
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/brook5407/42KL-libft">
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brook5407/42KL-libft">
 </p>
 
 <h3 align="center">
